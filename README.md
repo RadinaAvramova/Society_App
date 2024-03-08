@@ -1,2 +1,2 @@
-# Society_App
-Society_App
+# Smart Society App
+
